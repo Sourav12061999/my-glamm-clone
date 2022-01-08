@@ -11,7 +11,7 @@ container.innerHTML = nav();
 // }).then(function(res)
 // {
 //       data = res;
-//       console.log(data);
+       console.log(data);
 //       myglamm(data);
 // }) 
 
