@@ -1,4 +1,4 @@
-# My-Glamm clone
+# My-Glamm clone  <a href="https://myglammm.netlify.app/" target="_blank"> Live</a>
 
 This is our Second project at masai school construct week after learning HTML,CSS & JAVASCRIPT
 
@@ -10,7 +10,7 @@ The main Contributors for this project are
  - Sarang Gunjal
  - Shubham Srivastava
  - Biswajit Biswal
-
+ - Prajwal Rathod
  ## Tech Stack
  - HTML
  - CSS
